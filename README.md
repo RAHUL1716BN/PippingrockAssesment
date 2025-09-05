@@ -25,10 +25,10 @@ This automation framework is built on the Page Object Model (POM) design pattern
 		Integrated reporting to view execution results.
 		Helps in tracking test pass/fail status with detailed logs.
 **2.Steps to Execute the Tests**
+
 	1.Clone the Repository
 		git clone https://github.com/RAHUL1716BN/PippingrockAssesment.git
 		cd PippingrockAssesment/Assignment
-
 
 	2.Import the Project
 		Open the project in an IDE in Eclipse.
