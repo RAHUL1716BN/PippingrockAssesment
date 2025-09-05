@@ -45,6 +45,7 @@ This automation framework is built on the Page Object Model (POM) design pattern
 		Open index.html to view the detailed execution report.
 
 **3. Assumptions Made**
+
    The framework assumes Java, Selenium, and TestNG are installed and configured.
    The tests are written to run on a default browser setup (e.g., Chrome) unless updated in the Base class.
    Page classes and locators follow a consistent naming convention for easier maintenance.
