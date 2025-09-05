@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+ <suite name="Page Object Model">
+ <listeners>
+     
+ <listener class-name ="org.uncommons.reportng.HTMLReporter"/>
+  <listener class-name ="org.uncommons.reportng.JUnitXMLReporter"/>
+  
+ 
+ </listeners>
+
+
+
+  <test name="Homepage">
+    <classes>
+      <class name="Testcases.HomepageTest"/>
+    </classes>
+  </test> <!-- Test -->
+
+  <test name="Textpage">
+    <classes>
+      <class name="Testcases.Textpagetest"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test name="Checkboxpage">
+    <classes>
+      <class name="Testcases.Checkboxtest"/>
+    </classes>
+  </test> <!-- Test -->
+  
+    
+  <test name="Radiobtnpage">
+    <classes>
+      <class name="Testcases.Radiobtntest"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  
+   <test name="buttonpage">
+    <classes>
+      <class name="Testcases.Buttonpagetest"/>
+    </classes>
+  </test> <!-- Test -->
+  
+   <test name="Linkpage">
+    <classes>
+      <class name="Testcases.Linkpagetest"/>
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->

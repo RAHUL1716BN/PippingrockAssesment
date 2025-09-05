@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-09-05T23:04:48 IST" name="Page Object Model" finished-at="2025-09-05T23:05:03 IST" duration-ms="15476">
+    <groups>
+    </groups>
+    <test started-at="2025-09-05T23:04:48 IST" name="Homepage" finished-at="2025-09-05T23:05:02 IST" duration-ms="13820">
+      <class name="Testcases.HomepageTest">
+        <test-method signature="homepagetest()[pri:0, instance:Testcases.HomepageTest@478db956]" started-at="2025-09-05T23:04:48 IST" name="homepagetest" finished-at="2025-09-05T23:05:02 IST" duration-ms="13794" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepagetest -->
+      </class> <!-- Testcases.HomepageTest -->
+    </test> <!-- Homepage -->
+    <test started-at="2025-09-05T23:05:02 IST" name="Textpage" finished-at="2025-09-05T23:05:02 IST" duration-ms="699">
+      <class name="Testcases.Textpagetest">
+        <test-method signature="textpagetest()[pri:0, instance:Testcases.Textpagetest@4a00d9cf]" started-at="2025-09-05T23:05:02 IST" name="textpagetest" finished-at="2025-09-05T23:05:02 IST" duration-ms="695" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- textpagetest -->
+      </class> <!-- Testcases.Textpagetest -->
+    </test> <!-- Textpage -->
+    <test started-at="2025-09-05T23:05:02 IST" name="Checkboxpage" finished-at="2025-09-05T23:05:03 IST" duration-ms="226">
+      <class name="Testcases.Checkboxtest">
+        <test-method signature="checkboxtest()[pri:0, instance:Testcases.Checkboxtest@1cb346ea]" started-at="2025-09-05T23:05:02 IST" name="checkboxtest" finished-at="2025-09-05T23:05:03 IST" duration-ms="222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkboxtest -->
+      </class> <!-- Testcases.Checkboxtest -->
+    </test> <!-- Checkboxpage -->
+    <test started-at="2025-09-05T23:05:03 IST" name="Radiobtnpage" finished-at="2025-09-05T23:05:03 IST" duration-ms="187">
+      <class name="Testcases.Radiobtntest">
+        <test-method signature="radiobtntest()[pri:0, instance:Testcases.Radiobtntest@329dbdbf]" started-at="2025-09-05T23:05:03 IST" name="radiobtntest" finished-at="2025-09-05T23:05:03 IST" duration-ms="185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- radiobtntest -->
+      </class> <!-- Testcases.Radiobtntest -->
+    </test> <!-- Radiobtnpage -->
+    <test started-at="2025-09-05T23:05:03 IST" name="buttonpage" finished-at="2025-09-05T23:05:03 IST" duration-ms="261">
+      <class name="Testcases.Buttonpagetest">
+        <test-method signature="buttonpagetest()[pri:0, instance:Testcases.Buttonpagetest@59e2d8e3]" started-at="2025-09-05T23:05:03 IST" name="buttonpagetest" finished-at="2025-09-05T23:05:03 IST" duration-ms="257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buttonpagetest -->
+      </class> <!-- Testcases.Buttonpagetest -->
+    </test> <!-- buttonpage -->
+    <test started-at="2025-09-05T23:05:03 IST" name="Linkpage" finished-at="2025-09-05T23:05:03 IST" duration-ms="233">
+      <class name="Testcases.Linkpagetest">
+        <test-method signature="linkpagetest()[pri:0, instance:Testcases.Linkpagetest@420a85c4]" started-at="2025-09-05T23:05:03 IST" name="linkpagetest" finished-at="2025-09-05T23:05:03 IST" duration-ms="229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- linkpagetest -->
+      </class> <!-- Testcases.Linkpagetest -->
+    </test> <!-- Linkpage -->
+  </suite> <!-- Page Object Model -->
+</testng-results>

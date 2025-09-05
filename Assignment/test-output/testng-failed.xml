@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Page Object Model]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+  </listeners>
+  <test thread-count="5" name="Homepage(failed)">
+    <classes>
+      <class name="Testcases.HomepageTest">
+        <methods>
+          <include name="homepagetest"/>
+        </methods>
+      </class> <!-- Testcases.HomepageTest -->
+    </classes>
+  </test> <!-- Homepage(failed) -->
+  <test thread-count="5" name="Textpage(failed)">
+    <classes>
+      <class name="Testcases.Textpagetest">
+        <methods>
+          <include name="textpagetest"/>
+        </methods>
+      </class> <!-- Testcases.Textpagetest -->
+    </classes>
+  </test> <!-- Textpage(failed) -->
+  <test thread-count="5" name="Checkboxpage(failed)">
+    <classes>
+      <class name="Testcases.Checkboxtest">
+        <methods>
+          <include name="checkboxtest"/>
+        </methods>
+      </class> <!-- Testcases.Checkboxtest -->
+    </classes>
+  </test> <!-- Checkboxpage(failed) -->
+  <test thread-count="5" name="Radiobtnpage(failed)">
+    <classes>
+      <class name="Testcases.Radiobtntest">
+        <methods>
+          <include name="radiobtntest"/>
+        </methods>
+      </class> <!-- Testcases.Radiobtntest -->
+    </classes>
+  </test> <!-- Radiobtnpage(failed) -->
+  <test thread-count="5" name="buttonpage(failed)">
+    <classes>
+      <class name="Testcases.Buttonpagetest">
+        <methods>
+          <include name="buttonpagetest"/>
+        </methods>
+      </class> <!-- Testcases.Buttonpagetest -->
+    </classes>
+  </test> <!-- buttonpage(failed) -->
+  <test thread-count="5" name="Linkpage(failed)">
+    <classes>
+      <class name="Testcases.Linkpagetest">
+        <methods>
+          <include name="linkpagetest"/>
+        </methods>
+      </class> <!-- Testcases.Linkpagetest -->
+    </classes>
+  </test> <!-- Linkpage(failed) -->
+</suite> <!-- Failed suite [Page Object Model] -->

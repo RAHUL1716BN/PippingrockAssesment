@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Checkboxpage"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.222">
+  <properties />
+  
+  
+            <testcase name="checkboxtest" time="0.222" classname="Testcases.Checkboxtest" />
+      
+</testsuite>
